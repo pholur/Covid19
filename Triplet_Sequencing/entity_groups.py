@@ -1,0 +1,20 @@
+entities_5g_towers_begin_torched = {
+    "us":["us"],
+    "you":["you"],
+    "me":["me"],
+    "flu":["flu","fever","virus"],
+    "we":["we"],
+    "they":["they"],
+    "them":["them"],
+    "5g":["5g"],
+    "china":["china","wuhan"],
+    "scam":["scam"],
+    "dog":["dogs","doggos","dog","doggo"],
+    "radiation":["radiation"],
+    "waves":["wave","waves"],
+    "fact":["fact"],
+    "towers":["towers","tower","radiotowers"],
+    "risk":["risk"],
+    "cat":["cat","cats"],
+    "bat":["bat","bats"]
+}
